@@ -5,12 +5,12 @@ Sua principal estratégia é comprar boas casas em ótimas localizações com pr
 Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização e o período do ano também podem influenciar os preços.
 Dados: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download
 
-Duvidas:
+# Duvidas:
 Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
-Insight:
+# Insight:
 As casas no código postal 98115 têm um histórico de valorização acima da média. Comprar imóveis nesta área durante os meses de preços mais baixos (Janeiro e Fevereiro) e vendê-los nos meses de preços mais altos (Abril e Junho) pode maximizar os lucros.
 
 Compra:
